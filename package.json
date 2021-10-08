@@ -1,0 +1,19 @@
+{
+  "name": "v13cekilisbotu",
+  "version": "1.0.0",
+  "description": "Gweep Creative v13 Çekiliş Botu",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "author": "Gweep Creative",
+  "license": "ISC",
+  "homepage": "https://github.com/Androz2091/giveaways-bot#readme",
+  "dependencies": {
+    "discord-giveaways": "^5.0.1",
+    "discord-sync-commands": "^0.2.0",
+    "discord.js": "^13.2.0",
+    "ms": "^2.1.3"
+  }
+}
