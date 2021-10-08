@@ -24,7 +24,7 @@ Slash komutlu v13 Çekiliş Botu. developed by Gweep Creative
 * Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
 
 # Kurulum Glitch
-* İlk olarak [Buraya Tıkla](https://glitch.com/edit/#!/remix/kayitbot-v13) seni otomatik olarak proje sayfasına gönlendiricek.
+* İlk olarak [Buraya Tıkla](https://glitch.com/edit/#!/remix/v13-cekilis-botu) seni otomatik olarak proje sayfasına gönlendiricek.
 * Daha sonra `.env`dosyasındaki bilgileri doldur.
 * Kurulum bittikten sonra bot otomatik başlatılacaktır.
 
