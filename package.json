@@ -1,19 +1,40 @@
 {
-  "name": "v13cekilisbotu",
+  "name": "v13-muzik-bot",
   "version": "1.0.0",
-  "description": "Gweep Creative v13 Çekiliş Botu",
+  "description": "v13 Müzik botu",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js",
-    "start": "nodemon index.js"
+    "start": "node ."
   },
-  "author": "Gweep Creative",
-  "license": "ISC",
-  "homepage": "https://github.com/Androz2091/giveaways-bot#readme",
+  "license": "MIT",
   "dependencies": {
-    "discord-giveaways": "^5.0.1",
-    "discord-sync-commands": "^0.2.0",
-    "discord.js": "^13.2.0",
-    "ms": "^2.1.3"
+    "@discordjs/opus": "^0.5.3",
+    "discord-player": "^5.1.0",
+    "ffmpeg-static": "^4.4.0",
+    "lyrics-finder": "^21.7.0",
+    "yt-search": "^2.10.2",
+    "zucar-framework": "^1.0.17",
+    "discord.js": "^13.3.1",
+    "basic-ms": "^1.0.7",
+    "tiny-typed-emitter": "^2.1.0",
+    "discord-ytdl-core": "^5.0.4",
+    "ytdl-core": "^4.9.1",
+    "@discordjs/voice": "^0.7.5",
+    "youtube-sr": "^4.1.9",
+    "soundcloud-scraper": "^5.0.2",
+    "spotify-url-info": "^2.2.3",
+    "dasu": "^0.4.2",
+    "async.parallellimit": "^0.5.2",
+    "jsonpath-plus": "^6.0.1",
+    "human-time": "^0.0.2",
+    "html-to-text": "^8.1.0",
+    "encoding": "^0.1.13"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "prettier": "^2.4.1"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
